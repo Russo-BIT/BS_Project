@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+.home_section{
+    margin-top: 100px;
+}
+
+.h1{
+    color: goldenrod;
+    font-size: 80px;
+    font-family: 'Gloock', serif;
+}
+
+.car{
+    height: 400px;
+}
+
+.topic{
+    align-items: center;
+}
+.About{
+    color: white;
+    margin: 100px 100px;
+}
+
+.h2{
+    margin-left: 20px;
+    color: black;
+    font-family: 'Gloock', serif;
+}
+
+.about-heading{
+    background-color: goldenrod;
+}
+
+.lower-footer{
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-weight: normal !important;
+}
+
+.icons>a{
+    color: black;
+}
